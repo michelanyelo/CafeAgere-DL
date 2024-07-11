@@ -1,0 +1,10 @@
+.img-block {
+    display: flex;
+    align-items: stretch;
+
+    &--bg-blue{
+        width: 100%;
+        height: 60%;
+        background-color: $primary-blue;
+    }
+}

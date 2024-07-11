@@ -1,0 +1,28 @@
+.hero {
+    &.block {}
+
+    &__img {
+        width: 80%;
+    }
+
+    &__stats {
+        background-color: white;
+        bottom: 20%;
+        left: 38%;
+        position: absolute;
+        display: flex;
+        /* float: right; */
+        flex-direction: row;
+        justify-content: flex-end;
+        padding: 3rem 0;
+
+        .stat {
+            text-align: center;
+            margin-right: 1rem;
+        }
+
+        h2{
+            font-weight: 400;
+        }
+    }
+}
