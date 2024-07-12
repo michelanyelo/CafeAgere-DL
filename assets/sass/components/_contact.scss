@@ -1,0 +1,18 @@
+.contact {
+
+    padding: 0 $outer-screen-margin;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+
+
+    &__title {
+      font-size: $fs-xxl;
+      margin-bottom: 1rem;
+    }
+  
+    &__description {
+      font-size: $fs-md;
+    }
+  }
