@@ -83,7 +83,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
    
    ```
 
-5. Compila los archivos Sass:
+4. Compila los archivos Sass:
 
     Navega al directorio raíz del proyecto y ejecuta el siguiente comando para compilar los archivos Sass:
 
@@ -91,7 +91,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
     sass assets/sass/main.scss assets/css/main.css
 
 
-6. Abre el proyecto en tu IDE preferido.
+5. Abre el proyecto en tu IDE preferido.
 
 ## 🤝 Contribución
 
